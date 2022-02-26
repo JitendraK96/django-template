@@ -25,7 +25,7 @@ SECRET_KEY = 'jfhwxzhi5_8%8lg__l(x^b3*tetzu321z_c$^il=g^_gk(m=iq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sellzonelb-21300825.ap-south-1.elb.amazonaws.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
